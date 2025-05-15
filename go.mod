@@ -1,4 +1,4 @@
-module github.com //markomanboi/github-actions-exporter
+module github.com/markomanboi/github-actions-exporter
 
 go 1.23.0
 
